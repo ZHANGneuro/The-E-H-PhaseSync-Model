@@ -1,18 +1,13 @@
 # The-E-H-PhaseSync-Model
 
-The model was built to simulate the 3-fold periodicity of the Hippocampal BOLD signals which was found to fluctuate as a function of movement directions in conceptual object space. Our results, described in our manuscript entitled "The spatial periodic computation of hippocampus-entorhinal circuit in navigation" with a doi: https://doi.org/10.1101/2022.01.29.478346, suggested a causal relationship between the 3-fold periodicity found in the hippocampus and the three primary axes of the hexagonal firing pattern of grid cells. Therefore, here we uploaded the python code to demonstrate our hypothesis how the 3-fold periodicity in the hippocampus inherits the hexagonal signals of grid cells and in turn supporting navigation.
+The model was built to simulate the 3-fold periodicity of the Hippocampal BOLD signals, which were found to fluctuate as a function of movement directions in conceptual object space. Our results, described in our manuscript entitled "The spatial periodic computation of hippocampus-entorhinal circuit in navigation", with a DOI: https://doi.org/10.1101/2022.01.29.478346, suggested a causal relationship between the 3-fold periodicity found in the hippocampus and the three primary axes of the hexagonal firing pattern of grid cells. Therefore, we have uploaded the python codes to demonstrate our hypothesis on how the 3-fold periodicity in the hippocampus inherits the hexagonal signals of grid cells, thereby supporting navigation.<br /><br />
 
 
+Script `Simul_gridcells.py` generates grid cell population.<br />
 
+Script `Simul_vector_representation.py` simulates the process of the formation of the 3-fold periodicity in the hippocampus through imagination, and navigation using winner-take-all dynamics.<br />
 
-
-
-
-
-
-
-
-<br /><br />
+<br />
 ![alt tag](https://github.com/ZHANGneuro/The-E-H-PhaseSync-Model/blob/main/model_output.png)
 <br /><br />
 
