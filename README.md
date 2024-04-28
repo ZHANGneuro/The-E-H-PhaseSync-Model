@@ -8,6 +8,7 @@ Script `Simul_gridcells.py` generates grid cell population.<br />
 Script `Simul_vector_representation.py` simulates the process of the formation of the 3-fold periodicity in the hippocampus through imagination, and navigation using winner-take-all dynamics.<br />
 
 <br />
+
 ![alt tag](https://github.com/ZHANGneuro/The-E-H-PhaseSync-Model/blob/main/model_output.png)
 <br /><br />
 
