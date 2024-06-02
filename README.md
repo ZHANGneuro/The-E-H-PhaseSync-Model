@@ -12,7 +12,7 @@ Script `Simul_vector_representation.py` simulates the process of the formation o
 ![alt tag](https://github.com/ZHANGneuro/The-E-H-PhaseSync-Model/blob/main/model_output.png)
 <br /><br />
 
-
+--------------------------------
 Two analysis scripts were included in the folder `analysis script for behavioral data`, one R script and one python script.<br />
 <br />
 The R script `calculate_movement_directions.R` was used to calculate the subjective movement directions using a bin of 10°, while the python script `calculate_behavioral_performance_python.py` was used to calculate the behavioral performance of human subjects.<br />
