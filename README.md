@@ -13,11 +13,11 @@ Script `Simul_vector_representation.py` simulates the process of the formation o
 <br /><br />
 
 
-Two analysis scripts were included in the folder `analysis script for behavioral data`, one R script and one python script.
+Two analysis scripts were included in the folder `analysis script for behavioral data`, one R script and one python script.<br />
 <br />
-The R script `calculate_movement_directions.R` was used to calculate the subjective movement directions using a bin of 10°, while the python script `calculate_behavioral_performance_python.py` was used to calculate the behavioral performance of human subjects.
+The R script `calculate_movement_directions.R` was used to calculate the subjective movement directions using a bin of 10°, while the python script `calculate_behavioral_performance_python.py` was used to calculate the behavioral performance of human subjects.<br />
 <br />
-To run the two analysis scripts, please download the raw behavior data at the Science Data Bank (https://doi.org/10.57760/sciencedb.18351).
+To run the two analysis scripts, please download the raw behavior data at the Science Data Bank (https://doi.org/10.57760/sciencedb.18351).<br />
 <br /><br />
 
 bo <br />
