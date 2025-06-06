@@ -6,7 +6,14 @@ The model was built to simulate the 3-fold periodicity of Hippocampal activity, 
 
 The main finding of this paper demonstrates that the 3-fold periodicity of the hippocampus is the result of the activity projections of grid cell population in the entorhinal cortex.<br />
 
+## Python environment for grid cell simulation: <br />
+python `3.9.16` <br />
+matplotlib `3.9.4` <br />
+scipy `0.16.0` <br />
+moviepy `2.2.1` <br />
+imageio `2.37.0` <br />
 
+<br />
 Script `Simul_gridcells.py` is for the generation of grid cell population .<br />
 
 Script `Simul_vector_representation.py` simulates the process of the formation of the 3-fold periodicity in the hippocampus during mental planning<br />
